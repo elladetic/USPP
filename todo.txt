@@ -1,0 +1,4 @@
+TO DISCUSS
+- optimalan broj klastera?
+- klaster mi samo nestane usred koda?
+- kriterij zaustavljanja
