@@ -1,5 +1,7 @@
 TO DISCUSS
-- optimalan broj klastera?
-- klaster mi samo nestane usred koda?
+- optimalan broj klastera? - klaster mi samo nestane usred koda, jel to
+okej ili ne?
 - kriterij zaustavljanja
-- centroid ne na težištu
+- dodatna literatura ?
+- pocinjemo s k-means i njega poboljsajemo?
+
