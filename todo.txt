@@ -5,3 +5,12 @@ okej ili ne?
 - dodatna literatura ?
 - pocinjemo s k-means i njega poboljsajemo?
 
+
+-> broj klastera odrediti
+-> kmeans elbow method
+
+-> AtA nađemo svojstvene vrijednosti i svojstvene vektore
+-> k najvecih sv vektora i to stavimo u X
+
+
+- difusion maps
