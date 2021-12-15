@@ -11,9 +11,11 @@ v = v(1:n, :)';
 % Vt = Q * Xt
 
 [q, xt] = qr(v');
+size(xt)
 
 r1 = xt(1:n, 1:n);
 r2 = xt(1:n, n+1:length(xt));
+length(xt)
 
 
 r1r2 = inv(r1) * xt; %R**(-1)*Rt
